@@ -1,0 +1,175 @@
+MINERSBUDDY PROPRIETARY SOFTWARE LICENSE
+Software: "Mino" (Mino API)
+
+Copyright (c) 2026 MinersBuddy [LEGAL ENTITY NAME, e.g. "MinersBuddy Private Limited"].
+All rights reserved.
+
+This software is proprietary and confidential. It is NOT open-source software.
+By accessing, copying, or using this repository or any part of it, You agree to
+the terms below. If You do not agree, do not access or use the Software.
+
+--------------------------------------------------------------------------------
+1. DEFINITIONS
+--------------------------------------------------------------------------------
+"Software" means all source code, scripts, configuration files, system prompts,
+prompt templates, knowledge-base processing pipelines, documentation, data,
+and other materials in this repository, including all updates and derivative
+works.
+
+"Licensor" means MinersBuddy [LEGAL ENTITY NAME] and its successors.
+
+"You" means any individual or entity accessing or using the Software.
+
+"Authorized User" means (a) an employee or officer of the Licensor, or (b) a
+contractor, intern, or collaborator who has been given access by the Licensor
+and who is bound by a written agreement or written permission from the
+Licensor.
+
+--------------------------------------------------------------------------------
+2. OWNERSHIP
+--------------------------------------------------------------------------------
+The Software, and all intellectual property rights in it, are and remain the
+exclusive property of the Licensor. This License does not transfer any
+ownership rights to You. All rights not expressly granted are reserved.
+
+--------------------------------------------------------------------------------
+3. LIMITED PERMISSION
+--------------------------------------------------------------------------------
+Subject to this License, the Licensor grants Authorized Users a limited,
+non-exclusive, non-transferable, non-sublicensable, revocable permission to
+access, run, and modify the Software solely for developing, testing, operating,
+and maintaining Mino on behalf of the Licensor.
+
+Any other use requires a separate written agreement with the Licensor.
+
+--------------------------------------------------------------------------------
+4. RESTRICTIONS
+--------------------------------------------------------------------------------
+Unless You have the Licensor's prior written permission, You must NOT:
+
+(a) copy, publish, post, or distribute the Software or any part of it;
+(b) sell, rent, lease, sublicense, or otherwise commercialize the Software;
+(c) host, deploy, or offer the Software (or a service based on it) to third
+    parties;
+(d) modify the Software or create derivative works, except as permitted in
+    Section 3;
+(e) use the Software, its system prompts, or its outputs to build, train, or
+    improve a competing product or service;
+(f) reverse engineer, decompile, or attempt to extract the source code,
+    prompts, or data of any non-public part of the Software;
+(g) remove, alter, or obscure any copyright, trademark, or proprietary notice;
+(h) share access credentials, API keys, or non-public parts of the Software
+    with anyone who is not an Authorized User;
+(i) use the Software in violation of any applicable law or in a way that
+    could endanger the safety of any person.
+
+--------------------------------------------------------------------------------
+5. CONFIDENTIALITY
+--------------------------------------------------------------------------------
+The non-public parts of the Software, including system prompts, retrieval and
+ranking logic, curated datasets, deployment configuration, and any credentials,
+are confidential information of the Licensor. You must keep them confidential,
+protect them with reasonable care, and use them only as permitted by this
+License. This obligation continues after this License ends.
+
+--------------------------------------------------------------------------------
+6. CONTRIBUTIONS
+--------------------------------------------------------------------------------
+If You submit any code, documentation, data, idea, or other material
+("Contribution") to the Software:
+
+(a) You represent that You have the right to submit it and that it does not
+    violate the rights of any third party or the terms of any employer or
+    contract;
+(b) You assign to the Licensor all rights in the Contribution. Where
+    assignment is not permitted by law, You grant the Licensor a perpetual,
+    worldwide, irrevocable, royalty-free, exclusive, sublicensable license to
+    use, modify, distribute, and commercialize the Contribution in any way;
+(c) You agree to sign any further documents reasonably needed to confirm the
+    Licensor's rights.
+
+The Licensor is not obliged to accept any Contribution.
+
+--------------------------------------------------------------------------------
+7. THIRD-PARTY COMPONENTS, SERVICES, AND CONTENT
+--------------------------------------------------------------------------------
+(a) Open-source dependencies (for example FastAPI, Uvicorn, Pydantic,
+    python-dotenv, and google-genai) are licensed under their own terms. This
+    License does not change those terms.
+(b) Third-party services (for example the Google Gemini API and hosting
+    providers) are governed by their own terms and policies, which You must
+    follow.
+(c) Regulations, circulars, standards, textbooks, exam material, and other
+    documents that the Software may process, retrieve, or reference remain the
+    property of their respective owners. Nothing in this License grants any
+    right in such content, and You are responsible for having the right to use
+    any content You add.
+
+--------------------------------------------------------------------------------
+8. TRADEMARKS
+--------------------------------------------------------------------------------
+"MinersBuddy", "Mino", and any related names, logos, and branding are
+trademarks or identifiers of the Licensor. This License does not grant any
+right to use them.
+
+--------------------------------------------------------------------------------
+9. NO WARRANTY; SAFETY DISCLAIMER
+--------------------------------------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, ACCURACY, NON-INFRINGEMENT, OR UNINTERRUPTED OR
+ERROR-FREE OPERATION.
+
+Mino is an AI system and may produce incorrect, incomplete, or outdated
+information. Its outputs are for general information and exam-preparation
+support only. They are NOT a substitute for the official text of applicable
+laws and regulations, circulars issued by the Directorate General of Mines
+Safety (DGMS) or other authorities, site-specific safety procedures, or the
+judgment of qualified mining professionals. You must not rely on the Software
+as the sole basis for any safety-critical decision.
+
+--------------------------------------------------------------------------------
+10. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR SHALL NOT BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR
+ANY LOSS OF PROFITS, DATA, GOODWILL, OR BUSINESS, OR FOR ANY INJURY OR DAMAGE
+ARISING OUT OF OR RELATED TO THE USE OF, OR RELIANCE ON, THE SOFTWARE OR ITS
+OUTPUTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE LICENSOR'S
+TOTAL LIABILITY FOR ANY CLAIM RELATED TO THE SOFTWARE SHALL NOT EXCEED THE
+AMOUNT YOU PAID THE LICENSOR FOR THE SOFTWARE, OR ZERO IF YOU PAID NOTHING.
+
+--------------------------------------------------------------------------------
+11. TERMINATION
+--------------------------------------------------------------------------------
+This License and all permissions under it end automatically if You breach any
+of its terms, or when the Licensor withdraws Your access. The Licensor may
+revoke access at any time. On termination You must stop using the Software and
+delete or return all copies in Your possession. Sections 2, 4, 5, 6, 7, 8, 9,
+10, 12, and 13 survive termination.
+
+--------------------------------------------------------------------------------
+12. GOVERNING LAW AND DISPUTES
+--------------------------------------------------------------------------------
+This License is governed by the laws of [JURISDICTION, e.g. India], without
+regard to conflict-of-law rules. The courts at [CITY, STATE/COUNTRY] have
+exclusive jurisdiction over any dispute arising from this License. The
+Licensor may seek injunctive relief in any court to protect its intellectual
+property and confidential information.
+
+--------------------------------------------------------------------------------
+13. GENERAL
+--------------------------------------------------------------------------------
+This License is the entire agreement between You and the Licensor about the
+Software, unless You have signed a separate written agreement with the
+Licensor, which will take priority. If any part of this License is found
+unenforceable, the rest stays in effect. Failure to enforce any term is not a
+waiver. You may not assign this License without the Licensor's written
+consent. The Licensor may update this License by publishing a new version in
+this repository.
+
+--------------------------------------------------------------------------------
+14. CONTACT
+--------------------------------------------------------------------------------
+For licensing requests or permission to use the Software, contact:
+[LICENSING CONTACT EMAIL]
